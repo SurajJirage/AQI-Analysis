@@ -8,6 +8,7 @@ This project analyzes Air Quality Index (AQI) data using Python and Jupyter Note
 - `README.md`: Project info
 
 ## 🔧 Requirements
+- Python
 - pandas
 - matplotlib
 - seaborn
